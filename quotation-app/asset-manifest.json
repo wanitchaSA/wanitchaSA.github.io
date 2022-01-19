@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quotation-app/static/css/main.56e6221f.css",
-    "main.js": "/quotation-app/static/js/main.f20fede5.js",
+    "main.js": "/quotation-app/static/js/main.7b46d5a3.js",
     "static/js/787.fe5f0542.chunk.js": "/quotation-app/static/js/787.fe5f0542.chunk.js",
     "index.html": "/quotation-app/index.html",
     "main.56e6221f.css.map": "/quotation-app/static/css/main.56e6221f.css.map",
-    "main.f20fede5.js.map": "/quotation-app/static/js/main.f20fede5.js.map",
+    "main.7b46d5a3.js.map": "/quotation-app/static/js/main.7b46d5a3.js.map",
     "787.fe5f0542.chunk.js.map": "/quotation-app/static/js/787.fe5f0542.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.f20fede5.js"
+    "static/js/main.7b46d5a3.js"
   ]
 }
