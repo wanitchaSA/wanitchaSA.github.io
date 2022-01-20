@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quotation-app/static/css/main.56e6221f.css",
-    "main.js": "/quotation-app/static/js/main.9f8e1c62.js",
-    "static/js/787.fe5f0542.chunk.js": "/quotation-app/static/js/787.fe5f0542.chunk.js",
-    "index.html": "/quotation-app/index.html",
-    "main.56e6221f.css.map": "/quotation-app/static/css/main.56e6221f.css.map",
-    "main.9f8e1c62.js.map": "/quotation-app/static/js/main.9f8e1c62.js.map",
-    "787.fe5f0542.chunk.js.map": "/quotation-app/static/js/787.fe5f0542.chunk.js.map"
+    "main.css": "/react-quotation/static/css/main.56e6221f.css",
+    "main.js": "/react-quotation/static/js/main.81c97df1.js",
+    "static/js/787.fe5f0542.chunk.js": "/react-quotation/static/js/787.fe5f0542.chunk.js",
+    "index.html": "/react-quotation/index.html",
+    "main.56e6221f.css.map": "/react-quotation/static/css/main.56e6221f.css.map",
+    "main.81c97df1.js.map": "/react-quotation/static/js/main.81c97df1.js.map",
+    "787.fe5f0542.chunk.js.map": "/react-quotation/static/js/787.fe5f0542.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.9f8e1c62.js"
+    "static/js/main.81c97df1.js"
   ]
 }
